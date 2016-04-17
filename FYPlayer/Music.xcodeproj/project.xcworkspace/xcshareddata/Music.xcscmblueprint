@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9A31261AAADD22D418BC0BBFD4A7E9F3E76B9F34",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FA7B0BF9B800A8804CF7958AF8044987999FB1F8" : 0,
+    "9A31261AAADD22D418BC0BBFD4A7E9F3E76B9F34" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0A90022E-EAEF-4C7A-A1A9-A06F0E4078D3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FA7B0BF9B800A8804CF7958AF8044987999FB1F8" : "music-player",
+    "9A31261AAADD22D418BC0BBFD4A7E9F3E76B9F34" : "FYPlayer\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Music",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Music.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/FredYuuu\/FYPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9A31261AAADD22D418BC0BBFD4A7E9F3E76B9F34"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git:\/\/github.com\/charsdavy\/music-player.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FA7B0BF9B800A8804CF7958AF8044987999FB1F8"
+    }
+  ]
+}
